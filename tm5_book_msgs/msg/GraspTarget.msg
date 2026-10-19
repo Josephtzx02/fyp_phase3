@@ -1,0 +1,10 @@
+geometry_msgs/Point book_position
+geometry_msgs/Point grasp_position
+geometry_msgs/Point approach_position
+
+float64 width_mm
+float64 height_mm
+float64 thickness_mm
+float64 angle_deg
+
+geometry_msgs/Point camera_position
